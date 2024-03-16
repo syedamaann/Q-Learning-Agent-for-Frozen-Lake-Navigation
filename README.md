@@ -90,7 +90,3 @@ Contributions to this project are encouraged and appreciated. To contribute, ple
 ## Acknowledgments
 
 Special thanks to freeCodeCamp for providing the educational resources that inspired this project. Their tutorials and exercises on reinforcement learning and Q-Learning have been instrumental in developing this project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file in the repository for more details.
